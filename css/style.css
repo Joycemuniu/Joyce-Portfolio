@@ -1,4 +1,6 @@
 body{
+  background: rgb(180,140,58);
+    background: linear-gradient(90deg, rgba(180,140,58,1) 0%, rgba(44,113,167,1) 45%, rgba(5,66,245,1) 77%, rgba(119,89,48,1) 90%);
   
  }
 :root {
@@ -58,7 +60,7 @@ html {
     padding: 1.5rem 3.5rem;
     background-color: var(--bg-color);
     background: rgb(180,140,58);
-    background: linear-gradient(90deg, rgba(180,140,58,1) 0%, rgba(44,113,167,1) 45%, rgba(5,66,245,1) 77%, rgba(119,89,48,1) 90%);;
+    background: linear-gradient(90deg, rgba(180,140,58,1) 0%, rgba(44,113,167,1) 45%, rgba(5,66,245,1) 77%, rgba(119,89,48,1) 90%);
     box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
   }
   nav h1 {
@@ -113,7 +115,7 @@ html {
 /*home styling*/
 .home{
   display: flex;
-  background: url(/images/IMG-20201205-WA0076.jpg) no-repeat center;
+  background: url(./images/IMG-20201205-WA0076.jpg) no-repeat center;
   height: 100vh;
   color: white;
   min-height: 500px;
