@@ -115,7 +115,7 @@ html {
 /*home styling*/
 .home{
   display: flex;
-  background: url(./images/IMG-20201205-WA0076.jpg) no-repeat center;
+  background: url(../images/IMG-20201205-WA0076.jpg) no-repeat center;
   height: 100vh;
   color: white;
   min-height: 500px;
